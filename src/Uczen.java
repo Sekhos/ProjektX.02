@@ -37,6 +37,7 @@ public class Uczen extends Person{
     }
 
 
+
     public String getInfo() {
         return "Imię ucznia: " + imie + " Nazwisko: " + nazwisko + " Pesel: " + pesel + " Ocena: " + ocena +
                 " Klasa: " + klasa + " Opis oceny: " + opisOceny ;

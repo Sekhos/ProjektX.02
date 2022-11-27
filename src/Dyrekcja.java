@@ -19,6 +19,8 @@ public class Dyrekcja extends Person{
         return dlugoscPracy;
     }
 
+
+
     public void setDlugoscPracy(String dlugoscPracy) {
         this.dlugoscPracy = dlugoscPracy;
     }
